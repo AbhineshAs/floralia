@@ -89,6 +89,7 @@ a {
 }
 
 .text-body {
+	margin-left: 30%;
 	font-family: var(--font-body);
 	font-size: 1.1rem;
 	line-height: 1.7;
@@ -1558,7 +1559,7 @@ a {
 }
 
 .hero-content-text {
-	max-width: 600px;
+	max-width: 900px;
 	margin: 0 auto;
 }
 
@@ -1654,6 +1655,7 @@ a {
 .cta-section .text-body {
 	color: var(--color-taupe-light);
 	margin-bottom: var(--space-lg);
+	text-align: center;
 }
 
 .cta-buttons {
