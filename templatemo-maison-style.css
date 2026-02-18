@@ -1122,8 +1122,10 @@ a {
 /* Footer Bottom */
 .footer-bottom {
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 	align-items: center;
+	gap: var(--space-lg);
+	flex-direction: column;
 }
 
 .footer-copyright {
